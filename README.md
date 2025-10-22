@@ -29,7 +29,7 @@
     <td align="center">
       <img src="docs/images/app2-analysis-screen.jpg" alt="Analysis Screen" width="200"/><br/>
       <b>Analysis Process</b><br/>
-      Real-time AI analysis progress
+      AI analysis
     </td>
     <td align="center">
       <img src="docs/images/app3-results-view.jpg" alt="Results View" width="200"/><br/>
@@ -41,7 +41,7 @@
     <td align="center">
       <img src="docs/images/app4-bookmarks.jpg" alt="Bookmarks" width="200"/><br/>
       <b>Bookmarks</b><br/>
-      Save favorite analyses
+      Highlights in detial
     </td>
     <td align="center">
       <img src="docs/images/app5-history.jpg" alt="History" width="200"/><br/>
@@ -51,7 +51,7 @@
     <td align="center">
       <img src="docs/images/app6-settings.jpg" alt="Settings" width="200"/><br/>
       <b>Settings & Stats</b><br/>
-      Usage statistics & preferences
+      Bookmarks
     </td>
   </tr>
 </table>
@@ -302,9 +302,6 @@ REDIS_URL=redis://host:port/db  # For production rate limiting
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -313,14 +310,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Django Community** for robust backend infrastructure
 - **YouTube API** for transcript and metadata access
 
-## 📞 Support
-
-For questions, issues, or contributions:
-
-- 📧 **Email**: your.email@domain.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/saheenusman/Youtube-timesaver/issues)
-- 📖 **Documentation**: [Project Wiki](https://github.com/saheenusman/Youtube-timesaver/wiki)
 
 ---
 
-**Built with ❤️ for efficient learning and content consumption**
