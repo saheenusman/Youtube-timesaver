@@ -5,8 +5,6 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)](https://flutter.dev/)
 [![Django](https://img.shields.io/badge/Django-5.2.7-092E20?logo=django)](https://djangoproject.com/)
 [![Gemini AI](https://img.shields.io/badge/Google_Gemini-AI_Powered-4285F4?logo=google)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ## 🚀 Features
 
 - **AI-Powered Analysis**: Uses Google Gemini AI to analyze YouTube video transcripts
