@@ -39,7 +39,7 @@
     <td align="center">
       <img src="docs/images/app4-bookmarks.jpg" alt="Bookmarks" width="200"/><br/>
       <b>Highlights</b><br/>
-      Detailed Highlights View
+      Detailed Highlight View
     </td>
     <td align="center">
       <img src="docs/images/app5-history.jpg" alt="History" width="200"/><br/>
