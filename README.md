@@ -40,8 +40,8 @@
   <tr>
     <td align="center">
       <img src="docs/images/app4-bookmarks.jpg" alt="Bookmarks" width="200"/><br/>
-      <b>Bookmarks</b><br/>
-      Highlights in detial
+      <b>Highlights</b><br/>
+      Detailed Highlights View
     </td>
     <td align="center">
       <img src="docs/images/app5-history.jpg" alt="History" width="200"/><br/>
@@ -50,7 +50,7 @@
     </td>
     <td align="center">
       <img src="docs/images/app6-settings.jpg" alt="Settings" width="200"/><br/>
-      <b>Settings & Stats</b><br/>
+      <b>Bookmarked Analysis</b><br/>
       Bookmarks
     </td>
   </tr>
